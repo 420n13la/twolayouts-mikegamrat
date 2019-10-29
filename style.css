@@ -1,0 +1,47 @@
+.menu{
+  width:50%;
+  height:100%;
+  background-color:dodgerblue;
+}
+
+.menu2{
+  width:50%;
+  height:100%;
+  background-color:wheat;
+}
+
+.menu h1{
+  text-align:center;
+  margin-top:7em;
+  width:60%;
+  padding: 1em;
+  border: 2px solid white;
+  border-color: white;
+  color:white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu2 h1{
+  text-align:center;
+  margin-top:7em;
+  width:60%;
+  padding: 1em;
+  border: 2px solid black;
+  border-color: black;
+  color:black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu a:link, a:active, a:hover, a:visited{
+  color:white;
+  text-decoration: none;
+  font-family:comic sans ms;
+}
+
+.menu2 a:link, a:active, a:hover, a:visited{
+  color:black;
+  text-decoration: none;
+  font-family:comic sans ms;
+}
