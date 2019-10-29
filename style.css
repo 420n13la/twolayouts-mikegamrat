@@ -1,13 +1,13 @@
 .menu{
   width:50%;
   height:100%;
-  background-color:dodgerblue;
+  background-color:#0168CC;
 }
 
 .menu2{
   width:50%;
   height:100%;
-  background-color:wheat;
+  background-color:#FF9700;
 }
 
 .menu h1{
@@ -15,9 +15,9 @@
   margin-top:7em;
   width:60%;
   padding: 1em;
-  border: 2px solid white;
-  border-color: white;
-  color:white;
+  border: 2px solid #48A5FF;
+  border-color: #48A5FF;
+  color:#48A5FF;
   margin-left: auto;
   margin-right: auto;
 }
@@ -27,21 +27,21 @@
   margin-top:7em;
   width:60%;
   padding: 1em;
-  border: 2px solid black;
-  border-color: black;
-  color:black;
+  border: 2px solid #FFC26A;
+  border-color: #FFC26A;
+  color:#FFC26A;
   margin-left: auto;
   margin-right: auto;
 }
 
 .menu a:link, a:active, a:hover, a:visited{
-  color:white;
+  color:#48A5FF;
   text-decoration: none;
   font-family:comic sans ms;
 }
 
 .menu2 a:link, a:active, a:hover, a:visited{
-  color:black;
+  color:#FFC26A;
   text-decoration: none;
   font-family:comic sans ms;
 }
