@@ -45,3 +45,46 @@
   text-decoration: none;
   font-family:comic sans ms;
 }
+
+.vermenu nav{
+  float: left;
+  background-color: #0168CC;
+  width: 25%;
+  height: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+.vermenu main{
+  background-color: white;
+  width: 75%;
+  padding: 2%;
+  overflow: auto;
+  height: 100%;
+}
+
+.vermenu ul{
+  list-style: none;
+  padding: 0;
+}
+
+.vermenu ul li{
+  background-color: #48A5FF;
+  padding: 5px;
+  margin: 10px 0;
+}
+
+img.imgright {
+	margin: 10px 0px 10px 10px;
+  float: right;
+}
+
+img.imgleft {
+  	margin: 10px 10px 10px 0px;
+    float: left;
+  }
+
+  footer{
+    background-color: #ff8b84;
+    padding: 2%;
+  }
